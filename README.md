@@ -7,3 +7,4 @@
 - 📫 How to reach me https://web.bamsestudio.dk/discord/
 
 - Enjoy my repo 😊
+Git push
